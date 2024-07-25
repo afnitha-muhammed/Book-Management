@@ -1,0 +1,11 @@
+.container-fluid{
+    width:100%;
+    height:auto;
+}
+.row{
+    width:100%;
+}
+.imgg{
+    align-items: center;
+    justify-content: center;
+}
